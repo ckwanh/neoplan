@@ -1,1 +1,1 @@
-First test is ai coding and understand how it works
+First test in ai coding and understand how it works
